@@ -78,7 +78,7 @@ public class Server
 	
 	public static void main(String[] args) throws IOException
 	{
-		int port = 10006;
+		int port = 10010;
 		Server server = new Server(port);
 		
 		try

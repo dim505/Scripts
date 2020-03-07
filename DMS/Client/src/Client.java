@@ -207,7 +207,7 @@ public class Client
 	public static void main(String[] args) throws UnknownHostException, IOException
 	{
 		String IPAddress = "";
-		int port = 10006;
+		int port = 10010;
 		
 		IPAddress = JOptionPane.showInputDialog("Enter an IP Address");
 		
